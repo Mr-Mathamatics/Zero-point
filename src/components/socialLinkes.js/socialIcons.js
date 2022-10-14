@@ -29,7 +29,7 @@ const SocialLinkesIcons = () => {
     return (
         <>
             <GoogleLogin
-                clientId=""
+                clientId="206617876485-q5hv177ma6825brfe6acjaea2plpo6vp.apps.googleusercontent.com"
                 buttonText="Login with Google"
                 onSuccess={responseGoogle}
                 onFailure={responseGoogle}
